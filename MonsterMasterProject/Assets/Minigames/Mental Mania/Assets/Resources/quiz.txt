@@ -1,0 +1,120 @@
+1. What element is Flame weak to?
+Water
+Flame
+Wind
+Water
+Noct
+2. What element is Water Weak to?
+Wind
+Noct
+Wind
+Flame
+Lux
+3. What element is Wind weak to?
+Flame
+Lux
+Noct
+Water
+Flame
+4. What affects how a monster will evolve?
+Trained stats
+Life stats
+Trained stats
+Win rate
+All of the above
+5. What stat affects physical strength?
+Vigor
+Vigor
+Intelligence
+Agility
+Dexterity
+6. What stat affects magical strength?
+Intelligence
+Vigor
+Intelligence
+Agility
+Dexterity
+7. What stat affects a monsters speed?
+Agility
+Vigor
+Intelligence
+Agility
+Dexterity
+8. What stat affects a monster's critical hit rate?
+Dexterity
+Vigor
+Intelligence
+Agility
+Dexterity
+9. How many total types of monsters are there?
+6
+5
+6
+7
+8
+10. How many monsters are allowed to travel with you at one time?
+3
+5
+2
+3
+4
+11. Which of the following is not a special action?
+Repeat
+Switch
+Repeat
+Gamble
+Foresight
+12. What stat is affected by a monsters happiness levels?
+Intelligence
+Vigor
+Intelligence
+Agility
+Dexterity
+13. What stat is affected by a monsters Hunger levels?
+Vigor
+Vigor
+Intelligence
+Agility
+Dexterity
+14. What stat is affected by a monsters Cleaniliness levels?
+Agility
+Vigor
+Intelligence
+Agility
+Dexterity
+15. What does the switch special action do?
+Swaps a monster with another
+Guarantees a monster will hit
+Doubles a monster's buffs and debuffs
+Swaps a monster with another
+Garanteed a monster will miss
+16. How can you increase the vigor stat?
+Block Bash
+Chaotic Collecting
+Running Rally
+Mental Mania
+Block Bash
+17. How can you increase a monsters intelligence stat?
+Mental Mania
+Chaotic Collecting
+Running Rally
+Mental Mania
+Block Bash
+18. How can you increase a monsters dexterity stat?
+Chaotic Collecting
+Chaotic Collecting
+Running Rally
+Mental Mania
+Block Bash
+19. How can you increase a monsters agilty stat?
+Running Rally
+Chaotic Collecting
+Running Rally
+Mental Mania
+Block Bash
+20. What is the minimum scale a monsters stat should be for them to evolve?
+50
+25
+50
+75
+100

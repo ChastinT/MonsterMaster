@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 9f69ddf45779b47429f015259e906d4c
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 19df75abb6c238348a1012015f47f292
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 81f2800f44c02c246931ccdf51110b8c
+  - enabled: 1
+    path: Assets/Scenes/TowerMode.unity
+    guid: d42db6d247a8b794cb827058b8bd6b63
+  - enabled: 1
+    path: Assets/Minigames/Block Bash/BlockBash.unity
+    guid: 54ee0c8a3f8551c4eb4061c19f3a01ff
+  - enabled: 1
+    path: Assets/Minigames/Chaotic Collecting/ChaoticCollecting.unity
+    guid: 7718298eb0a76cf49aa5ecff4d3bac50
+  - enabled: 1
+    path: Assets/Minigames/Mental Mania/Assets/Scenes/MentalMania.unity
+    guid: 3120e624b9c73804ab307e38be247f5d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Minigames/Running Rally/Assets/Scenes/RunningRally.unity
+    guid: 89fa2512c9b2bce46a7158825b6a04da
   m_configObjects: {}

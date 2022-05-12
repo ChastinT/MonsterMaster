@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb39122f8fab2c498324faac16cc91c, type: 3}
+  m_Name: VigorStacker
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 4869705250140200888, guid: f6d45dcc5eedeae46b15c83bb3ac1c66, type: 3}
+  storePrefab: {fileID: 288064142159752677, guid: 3672e9d15caf6e94c9ab97618ac464a5, type: 3}
+  type: 0
+  itemName: Vigor Stacker
+  description: Stacker that increases a monster's vigor stat by 20
+  price: 1000
+  stackerType: 0
+  increase: 1
+  amount: 20

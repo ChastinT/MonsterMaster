@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb39122f8fab2c498324faac16cc91c, type: 3}
+  m_Name: Dexterity Destacker
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 5016984224226061619, guid: 8bfb833e82b10c64a8e48c79bf6ee9c4, type: 3}
+  storePrefab: {fileID: 2226922258481110718, guid: 4d2914dc094e53b41b095d24fe1206a0, type: 3}
+  type: 0
+  itemName: Dexterity Destacker
+  description: Stacker that decreases a monster's dexterity stat by 20
+  price: 1000
+  stackerType: 3
+  increase: 0
+  amount: 20

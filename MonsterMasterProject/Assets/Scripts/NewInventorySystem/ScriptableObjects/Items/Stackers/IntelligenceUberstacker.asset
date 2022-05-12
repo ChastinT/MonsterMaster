@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb39122f8fab2c498324faac16cc91c, type: 3}
+  m_Name: IntelligenceUberstacker
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 7079690895799837551, guid: 22f6bf83daf3cba4290527ede43f517a, type: 3}
+  storePrefab: {fileID: 876907771807056352, guid: 0b27077b283c0674eb5ccd3d796406fd, type: 3}
+  type: 0
+  itemName: Intelligence  Uberstacker
+  description: Stacker that increases a monster's intelligence stat by 40
+  price: 2000
+  stackerType: 1
+  increase: 1
+  amount: 40

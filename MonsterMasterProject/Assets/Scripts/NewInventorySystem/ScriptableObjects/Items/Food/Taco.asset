@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f4c2411fd9deee4f87c538bf067ee3e, type: 3}
+  m_Name: Taco
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 4513748648870408827, guid: f96b82828beab844a9715b622e975184, type: 3}
+  storePrefab: {fileID: 5558512765538126398, guid: bd4ea308d4571bc45aabef7973825539, type: 3}
+  type: 1
+  itemName: Taco
+  description: Like a burger but healthier... I think, either way a good classic
+    that'll be sure to fill some stomaches ... and my wallet.
+  price: 3000
+  restoreHungerValue: 75

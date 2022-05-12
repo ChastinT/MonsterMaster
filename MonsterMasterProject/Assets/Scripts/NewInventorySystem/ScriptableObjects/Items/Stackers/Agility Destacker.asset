@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb39122f8fab2c498324faac16cc91c, type: 3}
+  m_Name: Agility Destacker
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 3451942506268680126, guid: 0a978d10dfece2f46b6bde6e2b125e94, type: 3}
+  storePrefab: {fileID: 4486499400580625202, guid: 2a366d646330b434ab9c2d379c7f617c, type: 3}
+  type: 0
+  itemName: Agility Destacker
+  description: Stacker that decreases a monster's agility stat by 20
+  price: 1000
+  stackerType: 2
+  increase: 0
+  amount: 20

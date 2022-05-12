@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb39122f8fab2c498324faac16cc91c, type: 3}
+  m_Name: Intelligence Destacker
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 4165107355983419285, guid: f8fcd85e28636b646a46bc797e098ed8, type: 3}
+  storePrefab: {fileID: 5140148299437686469, guid: 5773c8cacd0429e4db1d8a094e6d2886, type: 3}
+  type: 0
+  itemName: Intelligence Destacker
+  description: Stacker that dcreases a monster's intelligence stat by 20
+  price: 1000
+  stackerType: 1
+  increase: 0
+  amount: 20
